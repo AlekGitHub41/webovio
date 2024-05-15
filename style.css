@@ -501,6 +501,11 @@ body {
     padding-bottom: 30px;
     color: rgb(182, 193, 151);
 }
+.main__footer__content a{
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
 
 
 .footer_contact {
